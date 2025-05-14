@@ -12,4 +12,4 @@ read -p "enter your username:" $USERNAME
 read -p "enter your password:" $PASSWORD
 
 
-#echo "Username is: $USERNAME, password is: $PASSWORD"
+echo "Username is: $USERNAME , password is: $PASSWORD"
