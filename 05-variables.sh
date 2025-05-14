@@ -8,7 +8,7 @@
 
 #read -s PASSWORD
 
-read -p "enter your username:"$username
-read -p "enter your password:"$password
+read -p "enter your username:" $USERNAME
+read -p "enter your password:" $PASSWORD
 
 echo "Username is: $USERNAME, password is: $PASSWORD"
